@@ -1,0 +1,155 @@
+{
+  "app": {
+    "name": "Lumora",
+    "tagline": "Design, launch and grow your online store"
+  },
+  "nav": {
+    "product": "Product",
+    "features": "Features",
+    "pricing": "Pricing",
+    "customers": "Customers",
+    "resources": "Resources",
+    "language": "Language",
+    "login": "Log in",
+    "signup": "Start free"
+  },
+  "announcement": {
+    "text": "New: AI product descriptions are now available on every plan.",
+    "link": "Learn more"
+  },
+  "hero": {
+    "badge": "Trusted by 25,000+ brands",
+    "title": "Build a store your customers will love",
+    "subtitle": "Lumora gives you everything you need to sell online — beautiful themes, secure payments and smart marketing tools in one place.",
+    "primary": "Start free trial",
+    "secondary": "Watch demo",
+    "note": "No credit card required. Cancel anytime.",
+    "card_title": "Today's sales",
+    "card_orders": "Orders",
+    "card_visitors": "Visitors",
+    "card_conversion": "Conversion"
+  },
+  "logos": {
+    "title": "Powering fast-growing brands around the world"
+  },
+  "features": {
+    "eyebrow": "Features",
+    "title": "Everything you need to sell online",
+    "subtitle": "From your first product to your millionth order, Lumora grows with you.",
+    "f1_title": "Drag-and-drop builder",
+    "f1_text": "Create a stunning storefront in minutes without writing a single line of code.",
+    "f2_title": "Secure checkout",
+    "f2_text": "Accept cards, wallets and local payment methods with built-in fraud protection.",
+    "f3_title": "Inventory management",
+    "f3_text": "Track stock across warehouses and get alerts before you run out.",
+    "f4_title": "Marketing automation",
+    "f4_text": "Send abandoned cart emails, discounts and newsletters automatically.",
+    "f5_title": "Real-time analytics",
+    "f5_text": "See what sells, where visitors come from and how your store is growing.",
+    "f6_title": "Global selling",
+    "f6_text": "Sell in multiple currencies and languages with automatic tax calculation.",
+    "learn_more": "Learn more"
+  },
+  "steps": {
+    "eyebrow": "How it works",
+    "title": "Launch your store in three simple steps",
+    "s1_title": "Pick a theme",
+    "s1_text": "Choose from 100+ professionally designed themes.",
+    "s2_title": "Add your products",
+    "s2_text": "Upload photos, set prices and write descriptions.",
+    "s3_title": "Start selling",
+    "s3_text": "Connect your domain and open your doors to the world."
+  },
+  "stats": {
+    "stores": "Active stores",
+    "sales": "Sales processed",
+    "countries": "Countries",
+    "uptime": "Uptime"
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Simple pricing for every stage",
+    "subtitle": "Start with a 14-day free trial. Upgrade or downgrade at any time.",
+    "monthly": "Monthly",
+    "yearly": "Yearly (save 20%)",
+    "per_month": "/month",
+    "popular": "Most popular",
+    "choose": "Choose plan",
+    "contact": "Contact sales",
+    "starter_name": "Starter",
+    "starter_desc": "For new businesses getting their first sales.",
+    "growth_name": "Growth",
+    "growth_desc": "For growing brands that need more power.",
+    "enterprise_name": "Enterprise",
+    "enterprise_desc": "For large teams with advanced needs.",
+    "custom": "Custom",
+    "feat_products": "Unlimited products",
+    "feat_staff_2": "2 staff accounts",
+    "feat_staff_10": "10 staff accounts",
+    "feat_staff_unlimited": "Unlimited staff accounts",
+    "feat_reports": "Basic reports",
+    "feat_advanced_reports": "Advanced reports",
+    "feat_support": "24/7 support",
+    "feat_manager": "Dedicated account manager"
+  },
+  "testimonials": {
+    "eyebrow": "Customers",
+    "title": "Loved by store owners everywhere",
+    "t1_quote": "We moved our store to Lumora in a weekend and our sales went up by 40% in the first month.",
+    "t1_name": "Priya Sharma",
+    "t1_role": "Founder, Kaya Organics",
+    "t2_quote": "The checkout is so fast that our customers keep telling us how easy it is to buy.",
+    "t2_name": "Daniel Weber",
+    "t2_role": "CEO, Nordic Threads",
+    "t3_quote": "Support answers in minutes, not days. It feels like having an extra team member.",
+    "t3_name": "Amina Yusuf",
+    "t3_role": "Owner, Sahara Crafts"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently asked questions",
+    "q1": "Do I need technical skills to use Lumora?",
+    "a1": "No. Everything works with drag and drop, and our guides walk you through each step.",
+    "q2": "Can I use my own domain name?",
+    "a2": "Yes. You can connect a domain you already own or buy a new one inside Lumora.",
+    "q3": "What happens when my free trial ends?",
+    "a3": "You can choose a plan to keep your store online. Your data stays safe for 30 days.",
+    "q4": "Can I cancel at any time?",
+    "a4": "Yes. There are no contracts and no cancellation fees."
+  },
+  "cta": {
+    "title": "Ready to start selling?",
+    "subtitle": "Join thousands of brands that grow with Lumora every day.",
+    "button": "Create your store"
+  },
+  "newsletter": {
+    "title": "Get tips to grow your store",
+    "subtitle": "One email a week. No spam, ever.",
+    "placeholder": "Enter your email address",
+    "button": "Subscribe"
+  },
+  "footer": {
+    "about": "Lumora helps businesses of every size sell online.",
+    "col_product": "Product",
+    "col_company": "Company",
+    "col_support": "Support",
+    "themes": "Themes",
+    "integrations": "Integrations",
+    "changelog": "Changelog",
+    "about_us": "About us",
+    "careers": "Careers",
+    "press": "Press",
+    "help": "Help center",
+    "contact": "Contact us",
+    "status": "System status",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "cookies": "Cookie settings",
+    "copyright": "© 2026 Lumora Inc. All rights reserved."
+  },
+  "messages": {
+    "missing_language": "This language is not available yet.",
+    "subscribed": "Thanks! You are now subscribed.",
+    "invalid_email": "Please enter a valid email address."
+  }
+}
