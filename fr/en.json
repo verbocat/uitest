@@ -1,0 +1,155 @@
+{
+  "app": {
+    "name": "Lumora",
+    "tagline": "Concevez, lancez et développez votre boutique en ligne"
+  },
+  "nav": {
+    "product": "Produit",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "customers": "Clients",
+    "resources": "Ressources",
+    "language": "Langue",
+    "login": "Connexion",
+    "signup": "Commencer gratuitement"
+  },
+  "announcement": {
+    "text": "Nouveau : les descriptions de produits générées par l’IA sont désormais disponibles avec tous les forfaits.",
+    "link": "En savoir plus"
+  },
+  "hero": {
+    "badge": "Plébiscité par plus de 25 000 marques",
+    "title": "Créez une boutique que vos clients vont adorer",
+    "subtitle": "Lumora vous offre tout ce dont vous avez besoin pour vendre en ligne — de magnifiques thèmes, des paiements sécurisés et des outils marketing intelligents réunis au même endroit.",
+    "primary": "Démarrer l’essai gratuit",
+    "secondary": "Regarder la démonstration",
+    "note": "Aucune carte bancaire requise. Annulez à tout moment.",
+    "card_title": "Ventes du jour",
+    "card_orders": "Commandes",
+    "card_visitors": "Visiteurs",
+    "card_conversion": "Taux de conversion"
+  },
+  "logos": {
+    "title": "Au service de marques en pleine croissance dans le monde entier"
+  },
+  "features": {
+    "eyebrow": "Fonctionnalités",
+    "title": "Tout ce dont vous avez besoin pour vendre en ligne",
+    "subtitle": "De votre premier produit à votre millionième commande, Lumora évolue avec vous.",
+    "f1_title": "Créateur par glisser-déposer",
+    "f1_text": "Créez une vitrine époustouflante en quelques minutes sans écrire une seule ligne de code.",
+    "f2_title": "Paiement sécurisé",
+    "f2_text": "Acceptez les cartes, les portefeuilles électroniques et les modes de paiement locaux grâce à une protection intégrée contre la fraude.",
+    "f3_title": "Gestion des stocks",
+    "f3_text": "Suivez vos stocks dans tous vos entrepôts et recevez des alertes avant d’être à court de produits.",
+    "f4_title": "Automatisation marketing",
+    "f4_text": "Envoyez automatiquement des e-mails concernant les paniers abandonnés, des remises et des newsletters.",
+    "f5_title": "Analyses en temps réel",
+    "f5_text": "Découvrez ce qui se vend, d’où viennent vos visiteurs et comment votre boutique se développe.",
+    "f6_title": "Vente à l’international",
+    "f6_text": "Vendez dans plusieurs devises et langues grâce au calcul automatique des taxes.",
+    "learn_more": "En savoir plus"
+  },
+  "steps": {
+    "eyebrow": "Comment ça marche",
+    "title": "Lancez votre boutique en trois étapes simples",
+    "s1_title": "Choisissez un thème",
+    "s1_text": "Choisissez parmi plus de 100 thèmes conçus par des professionnels.",
+    "s2_title": "Ajoutez vos produits",
+    "s2_text": "Importez des photos, définissez les prix et rédigez les descriptions.",
+    "s3_title": "Commencez à vendre",
+    "s3_text": "Connectez votre domaine et ouvrez vos portes au monde entier."
+  },
+  "stats": {
+    "stores": "Boutiques actives",
+    "sales": "Ventes traitées",
+    "countries": "Pays",
+    "uptime": "Disponibilité"
+  },
+  "pricing": {
+    "eyebrow": "Tarifs",
+    "title": "Une tarification simple pour chaque étape",
+    "subtitle": "Commencez par un essai gratuit de 14 jours. Passez à une offre supérieure ou inférieure à tout moment.",
+    "monthly": "mensuel",
+    "yearly": "Annuel (économisez 20 %)",
+    "per_month": "/month",
+    "popular": "Le plus populaire",
+    "choose": "Choisir un forfait",
+    "contact": "Contacter l’équipe commerciale",
+    "starter_name": "Starter",
+    "starter_desc": "Pour les nouvelles entreprises qui réalisent leurs premières ventes.",
+    "growth_name": "Croissance",
+    "growth_desc": "Pour les marques en pleine croissance qui ont besoin de plus de puissance.",
+    "enterprise_name": "Enterprise",
+    "enterprise_desc": "Pour les grandes équipes ayant des besoins avancés.",
+    "custom": "Personnalisé",
+    "feat_products": "Produits illimités",
+    "feat_staff_2": "2 comptes collaborateurs",
+    "feat_staff_10": "10 comptes collaborateurs",
+    "feat_staff_unlimited": "Comptes collaborateurs illimités",
+    "feat_reports": "Rapports de base",
+    "feat_advanced_reports": "Rapports avancés",
+    "feat_support": "Assistance 24 h/24, 7 j/7",
+    "feat_manager": "Gestionnaire de compte dédié"
+  },
+  "testimonials": {
+    "eyebrow": "Clients",
+    "title": "Plébiscité par les propriétaires de boutiques du monde entier",
+    "t1_quote": "Nous avons transféré notre boutique sur Lumora en un week-end et nos ventes ont augmenté de 40 % dès le premier mois.",
+    "t1_name": "Priya Sharma",
+    "t1_role": "Fondatrice, Kaya Organics",
+    "t2_quote": "Le paiement est si rapide que nos clients nous disent sans cesse à quel point il est facile d’acheter.",
+    "t2_name": "Daniel Weber",
+    "t2_role": "PDG, Nordic Threads",
+    "t3_quote": "L’assistance répond en quelques minutes, pas en quelques jours. On a l’impression d’avoir un membre d’équipe supplémentaire.",
+    "t3_name": "Amina Yusuf",
+    "t3_role": "Propriétaire, Sahara Crafts"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions fréquemment posées",
+    "q1": "Ai-je besoin de compétences techniques pour utiliser Lumora ?",
+    "a1": "Non. Tout fonctionne par glisser-déposer, et nos guides vous accompagnent à chaque étape.",
+    "q2": "Puis-je utiliser mon propre nom de domaine ?",
+    "a2": "Oui. Vous pouvez connecter un domaine que vous possédez déjà ou en acheter un nouveau dans Lumora.",
+    "q3": "Que se passe-t-il à la fin de mon essai gratuit ?",
+    "a3": "Vous pouvez choisir un forfait pour maintenir votre boutique en ligne. Vos données restent en sécurité pendant 30 jours.",
+    "q4": "Puis-je résilier à tout moment ?",
+    "a4": "Oui. Il n’y a aucun contrat ni frais de résiliation."
+  },
+  "cta": {
+    "title": "Prêt à commencer à vendre ?",
+    "subtitle": "Rejoignez des milliers de marques qui se développent avec Lumora chaque jour.",
+    "button": "Créez votre boutique"
+  },
+  "newsletter": {
+    "title": "Recevez des conseils pour développer votre boutique",
+    "subtitle": "Un e-mail par semaine. Jamais de spam.",
+    "placeholder": "Saisissez votre adresse e-mail",
+    "button": "S’abonner"
+  },
+  "footer": {
+    "about": "Lumora aide les entreprises de toutes tailles à vendre en ligne.",
+    "col_product": "Produit",
+    "col_company": "Entreprise",
+    "col_support": "Assistance",
+    "themes": "Thèmes",
+    "integrations": "Intégrations",
+    "changelog": "Journal des modifications",
+    "about_us": "À propos de nous",
+    "careers": "Carrières",
+    "press": "Presse",
+    "help": "Centre d’aide",
+    "contact": "Contactez-nous",
+    "status": "État du système",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d’utilisation",
+    "cookies": "Paramètres des cookies",
+    "copyright": "© 2026 Lumora Inc. Tous droits réservés."
+  },
+  "messages": {
+    "missing_language": "Cette langue n’est pas encore disponible.",
+    "subscribed": "Merci ! Vous êtes maintenant inscrit(e).",
+    "invalid_email": "Please enter a valid email address."
+  }
+}
